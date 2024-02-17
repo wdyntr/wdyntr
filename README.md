@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![kaneshiro](https://github.com/wdyntr/wdyntr/assets/111499715/b0c2620c-768a-4372-8e83-bafa7fa882df)
+
 Perkenalkan nama saya **M. Widyantoro W**  
 Saya seorang Mahasiswa di Institut Teknologi Sumatera (ITERA)  
 Saya merupakan seorang **Backend Developer**  
