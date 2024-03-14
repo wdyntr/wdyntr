@@ -1,8 +1,6 @@
 ### Hi there 👋
 
-Perkenalkan nama saya **M. Widyantoro W**  
-Saya seorang Mahasiswa di Institut Teknologi Sumatera (ITERA)  
-Saya merupakan seorang **Backend Developer**  
+Perkenalkan nama saya **M. Widyantoro W**  Saya seorang Mahasiswa di Institut Teknologi Sumatera (ITERA)  Saya memiliki ketertarikan untuk menjadi **Backend Developer**. 
 
 Get in touch [Instagram](https://instagram.com/wdyntrwn)
 
