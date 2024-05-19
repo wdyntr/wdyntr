@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Halo! Saya adalah M. Widyantoro W, seorang mahasiswa di Institut Teknologi Sumatera (ITERA). Saya tertarik dalam menjelajahi dunia teknologi, khususnya dalam menjadi seorang Backend Developer. Menjadi bagian dari industri teknologi memberikan saya kesempatan untuk terus belajar dan berkembang.
+Halo! I am M. Widyantoro W, a student studying at Institut Teknologi Sumatera (ITERA). My deep interest in the exploration of the world of technology, especially in the field of Backend development, inspires me to pursue a quality and impactful career.  I believe that being part of the technology industry allows me to continue learning and developing my skills along with the latest developments in this field.
 
 Get in touch [Instagram](https://instagram.com/wdyntrwn)
 
